@@ -8,9 +8,8 @@ import Vote from './c0602/Vote';
 function App() {
   return (
     <div className="App">
-      <EvenOdd />
-      <EvenOdd />
       <Day />
+      <EvenOdd />
       <Day />
       <Vote/>
     </div>
