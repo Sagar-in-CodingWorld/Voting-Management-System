@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <EvenOdd />
+      <EvenOdd />
       <Day />
       <Day />
       <Vote/>

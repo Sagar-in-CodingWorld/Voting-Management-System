@@ -15,7 +15,7 @@ export default function Day(){
     return(
         <>
             
-            <h2 style={cstyle}>{msg}</h2>
+            <h2 style={cstyle}>{msg}hi</h2>
             <img src={image} alt="imag"></img>
         </>
     )
