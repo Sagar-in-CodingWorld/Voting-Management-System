@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <EvenOdd />
       <Day />
-      
+      <Day />
       <Vote/>
     </div>
   );
