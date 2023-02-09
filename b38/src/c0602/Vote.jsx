@@ -10,6 +10,7 @@ export default function Vote(){
     return(
         <>
             <h1 style={cstyle}>{eligible}</h1>
+             f
         </>
     )
 }
