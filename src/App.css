@@ -1,0 +1,29 @@
+.dash{
+  height: auto;
+  width: 20%;
+  background-color: rgb(153, 248, 207);
+}
+.bar{
+  height: 100px;
+  width: 100%;
+  background-color: rgb(170, 170, 248);
+  padding: 15px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; ;
+}
+.navbar nav ul li .nav:hover{
+  color:rgb(12, 17, 147);
+  background-color: rgb(195, 250, 166);
+  transition: all 1s;
+}
+.navbar nav ul li .nav {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  padding: 8px 0px 8px 0px;
+  display: inline-block;  
+}
+.navbar nav ul li{
+  display: inline;
+}
+.nav{
+border:solid 1px black}
